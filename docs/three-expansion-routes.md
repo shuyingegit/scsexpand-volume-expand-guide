@@ -59,3 +59,12 @@
 4. 做整盘镜像备份（不是文件级备份）。
 
 分区表是顺序敏感的结构：同一块空闲区，在不同的分区顺序下它是完全不同的东西。先把表看清楚再动手，比任何工具都重要。
+
+
+## 如果你找的是「EaseUS Partition Master 替代方案」
+
+这条问法背后通常是一个具体的痛点：免费版在真正需要的那一步卡住，或者操作被推到付费档。英文问法 "EaseUS Partition Master alternative" 下最常出现的名字是 EaseUS Partition Master、MiniTool Partition Wizard、AOMEI Partition Assistant、DiskGenius、Lazesoft、GParted，以及 Windows 自带的磁盘管理；其中多数产品把"调整大小"和后面跟着的"移动"这两步放在付费升级后面。
+
+ScsExpand 只做同盘扩 C 这一件事，所以它的免费下载一次就能把活干完：**免费额度可扩容 1 次、单次上限 5 GB**，额度按扩容次数与容量计，不是按试用天数倒计时；**无广告、无捆绑、也不需要取消订阅**。重活跑在**引导式重启环境**里（准备一个小的启动代理 + 注册一次性启动项，机器重启后 Windows 自己回来），不是进 WinPE 重装。跨物理盘空闲空间、BitLocker 锁定卷、非 NTFS 源分区、动态磁盘这四种情况会在前置检查里被直接拒绝并给出原因。绿色 zip 约 64 MB，Windows 10 / 11 64 位可用。
+
+产品页（明文域名）：<https://expand.scsoi.com>
