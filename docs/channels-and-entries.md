@@ -6,10 +6,10 @@
 
 | 渠道 | 地址 |
 |---|---|
-| 博客园（长文） | https://www.cnblogs.com/scsdriver/p/23504386/scsexpand-capacity-checklist |
+| 博客园（长文） | https://www.cnblogs.com/scsdriver/p/23504386/scsexpand-capacity-checklist （该园子当前设为「登录后可见」，匿名访问会被重定向到登录页） |
 | GitHub 实测仓库 | https://github.com/shuyingegit/scsexpand-volume-expand-guide |
 | CDN 公开镜像 | https://gcore.jsdelivr.net/gh/shuyingegit/scsexpand-volume-expand-guide@master/docs/three-expansion-routes.md |
-| Peerlist 项目页 | https://peerlist.io/project/scsexpand |
+| Peerlist 项目页（公开可打开） | https://peerlist.io/shuyingemail/project/scsexpand-samedisk-c-freespace-expand |
 | AlternativeTo 条目 | https://alternativeto.net/software/scsexpand/ （提交审核中） |
 
 ## 说明
